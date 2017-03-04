@@ -25,7 +25,7 @@ SECRET_KEY = 'e101%#bl05ljb#nkaak#5$o$*x#(+^)g$48qgkt@4%1(qk-vmv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["punapea.pythonanywhere.com"]
 
 
 # Application definition
